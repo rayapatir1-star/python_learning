@@ -2,4 +2,4 @@
 l = [1, 2, 3, 4]
 a  = l.remove(3)
 print(a, l)
-# print(l.remove(5))
+print(l.remove(5))
